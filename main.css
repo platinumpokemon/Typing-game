@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;    
+}
+
+#prompt-container {
+  font-family: Courier New, Courier, monospace;
+  font-size: 24px;
+  letter-spacing: 3px;
+}
+
+#yellow-block {
+  position: absolute;
+  margin-top: 10px;
+  width: 15px;
+  height: 15px;
+  
+}
+
+.keyboard-container {
+  margin-top: 200px;
+}
+
+#target-letter {
+  font-size: 38px;  
+}
+
+.keys-row {
+  margin-top: 40px;
+  padding: 10px 0;
+}
+
+#feedback {
+  font-size: 20px;
+}
+.glyphicon-ok {
+  color: #1DA237
+}
+
+.glyphicon-remove {
+  color : #CD2626
+}
+
+.highlighted {
+     }
+
+body{
+  background-image: url("file:///Users/InnovateBham_9/Desktop/tumblr_olrp35DxH51qmvzd1o1_r1_500.jpg");
+  
+      /* Full height */
+      height: 100%; 
+  
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
